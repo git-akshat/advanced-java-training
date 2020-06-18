@@ -1,4 +1,4 @@
-package com.akshat.java.substituion_principle.wildcards;
+package com.akshat.java.substitution_principle.wildcards;
 
 
 class Building {
