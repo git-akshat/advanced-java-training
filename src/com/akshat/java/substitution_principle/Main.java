@@ -1,5 +1,5 @@
 
-package com.akshat.java.substituion_principle;
+package com.akshat.java.substitution_principle;
 
 import java.util.ArrayList;
 import java.util.List;

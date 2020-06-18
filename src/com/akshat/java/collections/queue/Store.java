@@ -5,14 +5,13 @@
  */
 package com.akshat.java.collections.queue;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class Store {
     
     public static void main(String[] args) {                
         
-        LinkedList<Customer> queue = new LinkedList();
+        LinkedList<Customer> queue = new LinkedList<Customer>();
         queue.add(new Customer("Sally"));
         queue.add(new Customer("Ben"));
         queue.add(new Customer("Emma"));
